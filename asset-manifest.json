@@ -1,0 +1,22 @@
+{
+  "main.css": "/Game-MissingNumber/static/css/main.0c12fe89.chunk.css",
+  "main.js": "/Game-MissingNumber/static/js/main.be7a28ca.chunk.js",
+  "main.js.map": "/Game-MissingNumber/static/js/main.be7a28ca.chunk.js.map",
+  "runtime~main.js": "/Game-MissingNumber/static/js/runtime~main.3b372bd6.js",
+  "runtime~main.js.map": "/Game-MissingNumber/static/js/runtime~main.3b372bd6.js.map",
+  "static/css/2.2ae034a2.chunk.css": "/Game-MissingNumber/static/css/2.2ae034a2.chunk.css",
+  "static/js/2.eaf0cce1.chunk.js": "/Game-MissingNumber/static/js/2.eaf0cce1.chunk.js",
+  "static/js/2.eaf0cce1.chunk.js.map": "/Game-MissingNumber/static/js/2.eaf0cce1.chunk.js.map",
+  "index.html": "/Game-MissingNumber/index.html",
+  "precache-manifest.76f750cefdd7a720cdff46d45a029f74.js": "/Game-MissingNumber/precache-manifest.76f750cefdd7a720cdff46d45a029f74.js",
+  "service-worker.js": "/Game-MissingNumber/service-worker.js",
+  "static/css/2.2ae034a2.chunk.css.map": "/Game-MissingNumber/static/css/2.2ae034a2.chunk.css.map",
+  "static/css/main.0c12fe89.chunk.css.map": "/Game-MissingNumber/static/css/main.0c12fe89.chunk.css.map",
+  "static/media/321go.mp3": "/Game-MissingNumber/static/media/321go.8efff185.mp3",
+  "static/media/background.gif": "/Game-MissingNumber/static/media/background.efc0e331.gif",
+  "static/media/bar.png": "/Game-MissingNumber/static/media/bar.669f8cdb.png",
+  "static/media/grocerySound.mp3": "/Game-MissingNumber/static/media/grocerySound.a0d6b138.mp3",
+  "static/media/rightAnswer.mp3": "/Game-MissingNumber/static/media/rightAnswer.09b0b7bb.mp3",
+  "static/media/tostartpressbutton.mp3": "/Game-MissingNumber/static/media/tostartpressbutton.424d1898.mp3",
+  "static/media/wrongAnswer.mp3": "/Game-MissingNumber/static/media/wrongAnswer.ddcbc59b.mp3"
+}
